@@ -44,6 +44,7 @@ def weather_page():
 app.run()
 
 #http://api.openweathermap.org/data/2.5/weather?q=bangalore&appid=997ea79e1c9575bd4f087cf90e68205d
+# http://api.openweathermap.org/data/2.5/weather?q=bangalore&appid=d6d7893903cd64ec4de8aa42901aefac
 # "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid"=997ea79e1c9575bd4f087cf90e68205d
 
 # --when api is source and using urllib library -> very old and basic library--
